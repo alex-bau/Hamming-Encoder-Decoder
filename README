@@ -1,0 +1,1 @@
+Verilog program that calculates a Hamming Encoding for 11bites of data, using 4 parity bits.
